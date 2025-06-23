@@ -11,6 +11,7 @@ This project involves the design and simulation of a Digital AC Wattmeter using 
 ## Files Included
 1) **Proteus-Simulation**: Contains the `.pdsprj` file for the simulation.
 2) **Report**: A comprehensive report detailing the project.
+3) **Code**: Arduino IDE code.
 
 ## Applications
 1) Power monitoring in electrical systems.
