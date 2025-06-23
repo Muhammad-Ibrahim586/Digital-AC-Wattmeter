@@ -9,7 +9,7 @@ This project involves the design and simulation of a Digital AC Wattmeter using 
 3) Includes a detailed report explaining the circuit design and functionality.
 
 ## Files Included
-1) **Proteus-Simulation/**: Contains the `.pdsprj` file for the simulation.
+1) **Proteus-Simulation**: Contains the `.pdsprj` file for the simulation.
 2) **Report**: A comprehensive report detailing the project.
 
 ## Applications
