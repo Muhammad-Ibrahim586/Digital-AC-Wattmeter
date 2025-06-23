@@ -1,0 +1,28 @@
+# Ignore Arduino IDE generated files
+*.ino.*
+*.elf
+*.hex
+*.bin
+*.eep
+*.d
+
+# Ignore Arduino libraries (if not specific to this project)
+libraries/
+
+# Ignore Proteus auto-generated files
+*.ddb
+*.exf
+*.idx
+*.smt
+*.tmp
+
+# Ignore backup and temporary files
+*.bak
+*.swp
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
